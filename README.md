@@ -1,7 +1,5 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
 This is a Unity 2D starter project that has folders set up already and common plugins installed. A .gitignore and to-do file are also made.
